@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/prime-man-gummies-mexico/sitemap.xml
+Sitemap: https://prime-man-gummies-mexico.vercel.app/sitemap-vercel.xml
+Sitemap: https://prime-man-gummies-mexico.pages.dev/sitemap-cloudflare.xml
